@@ -1,6 +1,11 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family: 'Lobster', cursive;
+    background:content-box;
+    background-color:black;
+    color:lightgrey;
+   
 }
 
 /* Set padding to keep content from hitting the edges */

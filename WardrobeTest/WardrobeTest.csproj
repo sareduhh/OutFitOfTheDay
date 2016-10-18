@@ -182,8 +182,14 @@
     <Content Include="Content\photos\bottoms\blackskinnyworkpant.JPG" />
     <Content Include="Content\photos\bottoms\shreddedskinnyjeans.jpg" />
     <Content Include="Content\photos\bottoms\tanworkpant.jpg" />
+    <Content Include="Content\photos\shoes\blackgoldpump.jpg" />
+    <Content Include="Content\photos\shoes\blacksandal.jpg" />
     <Content Include="Content\photos\shoes\chunkyheelboot.jpg" />
+    <Content Include="Content\photos\shoes\combatboot.jpg" />
+    <Content Include="Content\photos\shoes\fallboot.jpg" />
+    <Content Include="Content\photos\shoes\flats.jpg" />
     <Content Include="Content\photos\shoes\stillettoheel.jpg" />
+    <Content Include="Content\photos\shoes\thewedge.jpg" />
     <Content Include="Content\photos\tops\blackblazer.jpg" />
     <Content Include="Content\photos\tops\blueblouse.jpg" />
     <Content Include="Content\photos\tops\darkbluedress.jpg" />
